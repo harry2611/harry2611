@@ -85,6 +85,7 @@
 
 ## 📚 Publications
 📘 *Machine Learning Techniques for Classification and Regression: Vinho Verde Dataset* — ICAAAIML 2025  
+🔗 [View Publication](https://link.springer.com/chapter/10.1007/978-981-95-0148-9_23)
 📗 *Fruit and Vegetable Segmentation with Decision Trees* — ICDMAI 2024 (Springer)  
 🔗 [View Publication](https://link.springer.com/chapter/10.1007/978-981-97-3242-5_23)
 
