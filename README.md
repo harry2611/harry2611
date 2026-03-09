@@ -69,7 +69,7 @@
 
 ---
 
-### 💬 [Smart Feedback Analyzer](https://github.com/harry2611/Smart-Feedback-Analyzer)
+### 💬 [AI-Product-Intelligence-Platform](https://github.com/harry2611/Smart-Feedback-Analyzer)
 > 🤖 *FastAPI | React | HuggingFace | DynamoDB | Docker*
 - Built an **AI-driven feedback analyzer** processing **10K+ reviews** with real-time sentiment tagging & clustering.  
 - Created **React dashboards** for trend visualization and containerized the stack with **Docker**, boosting efficiency **40%**.
